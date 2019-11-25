@@ -79,9 +79,9 @@ hr {
     height: .3rem;
     width: 28.85rem;
     position: absolute;
-    left: 61rem;
+    left: 50%;
     margin-left: -15rem;
-    top: 37.5rem;
+    top: 50%;
     margin-top: -18rem;
 }
 
