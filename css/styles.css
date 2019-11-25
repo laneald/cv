@@ -19,6 +19,7 @@ h2 {
 
 h3 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
 }
 
 a {
@@ -29,11 +30,12 @@ a {
 }
 
 a:hover {
-    color: #000000;
+    color: #3b5998;
 }
 
 p {
     line-height: 2;
+    font-size: 1.13rem;
 }
 
 hr {
@@ -154,7 +156,7 @@ hr {
 }
 
 .copyright {
-    font-size: 0.75rem;
+    font-size: 1.25rem;
     padding: 1.25rem 0;
 }
 
