@@ -76,13 +76,13 @@ hr {
 }*/
 
 .top-container-heading {
-    height: 30%;
-    width: 30%;
+    height: 40rem;
+    width: 40rem;
     position: absolute;
-    left: 50%;
-    margin-left: -13%;
-    top: 50%;
-    margin-top: -16%;
+    left: 60rem;
+    margin-left: -20rem;
+    top: 35rem;
+    margin-top: -15rem;
 }
 
 /*.top-container img {
