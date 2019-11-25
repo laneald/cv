@@ -77,13 +77,13 @@ hr {
 }*/
 
 .top-container-heading {
-    height: 30%;
-    width: 30%;
+    height: 30vmin;
+    width: 30vw;
     position: absolute;
-    left: 50%;
-    margin-left: -13%;
-    top: 50%;
-    margin-top: -16%;
+    left: 50vw;
+    margin-left: -13vw;
+    top: 32.5vw;
+    margin-top: -16vw;
 }
 
 /*.top-container img {
