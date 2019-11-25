@@ -35,7 +35,7 @@ a:hover {
 
 p {
     line-height: 2;
-    font-size: 1vw;
+    font-size: 1.08vw;
 }
 
 hr {
@@ -109,7 +109,7 @@ hr {
 .intro {
     width: 30%;
     margin: auto;
-    font-size: 1vw;
+    font-size: 1.08vw;
 }
 
 .contact-message {
