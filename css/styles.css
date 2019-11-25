@@ -77,12 +77,12 @@ hr {
 
 .top-container-heading {
     height: .3rem;
-    width: .3rem;
+    width: 28.85rem;
     position: absolute;
-    left: .5rem;
-    margin-left: .13rem;
-    top: .5rem;
-    margin-top: .13rem;
+    left: 61rem;
+    margin-left: -15rem;
+    top: 37.5rem;
+    margin-top: -18rem;
 }
 
 /*.top-container img {
@@ -167,7 +167,7 @@ hr {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.625rem;
     padding: 0.625rem 1.25rem;
-    margin: 0.625rem auto 0 0;
+    margin: .625rem auto 0 0;
     text-decoration: none;
     text-shadow: 0px 0.0625 #3b5998;
 }
