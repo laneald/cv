@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 5.625rem;
     margin: 3.125rem auto 0 auto;
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
@@ -78,9 +78,9 @@ hr {
 
 .top-container-heading {
     height: 30vmin;
-    width: 40vw;
+    width: 77vw;
     position: absolute;
-    left: 42.5vw;
+    left: 25vw;
     margin-left: -13vw;
     top: 32.5vw;
     margin-top: -16vw;
@@ -139,6 +139,7 @@ hr {
     margin: 10.9375rem auto;
     text-align: left;
 }
+
 
 .code-img {
     width: 25%;
